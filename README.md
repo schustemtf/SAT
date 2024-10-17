@@ -1,4 +1,4 @@
-#SAT Solving
+# SAT Solving
 
 My solutions for the projects of the [SAT Solving](https://cca.informatik.uni-freiburg.de/sat/ss23/) course by Prof. Armin Biere at the University of Freibrug.
 
